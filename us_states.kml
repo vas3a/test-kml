@@ -16,10 +16,11 @@
         <scale>1</scale>
       </LabelStyle>
       <LineStyle>
+        <color>64FFFFFF</color>
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>997f7fff</color>
+        <color>64009d4e</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
