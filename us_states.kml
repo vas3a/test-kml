@@ -5,22 +5,12 @@
     <name><![CDATA[US States]]></name>
     <open>1</open>
     <Style id="Style_5">
-      <IconStyle>
-        <scale>0.4</scale>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <color>9900ffff</color>
-        <scale>1</scale>
-      </LabelStyle>
       <LineStyle>
-        <color>990000ff</color>
+        <color>ffffff</color>
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>997f7fff</color>
+        <color>009d4e</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
